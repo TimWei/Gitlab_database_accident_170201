@@ -11,11 +11,11 @@
 <br>
 
 <b>影响</b>
-1. 六小时左右的数据丢失
-2. 粗估有4613个普通project丶74 forks及350 imports的数据丢失，共计影响了5037个project. 由於 Git repositorie 并<b><span style='color:red'>没有</span></b>丢失，如project的User/Group於数据丢失前已存在，project将可以被重建，但project issues之类的无法重建
-3. 接近5000条留言丢失
-4. 从Kibana的记录上，粗估有707名用户活跃度受影响
-5. 於01/31 17:20之後建立的WebHooks丢失
+ 1. 六小时左右的数据丢失
+ 2. 粗估有4613个普通project丶74 forks及350 imports的数据丢失，共计影响了5037个project. 由於 Git repositorie 并<b><span style='color:red'>没有</span></b>丢失，如project的User/Group於数据丢失前已存在，project将可以被重建，但project issues之类的无法重建
+ 3. 接近5000条留言丢失
+ 4. 从Kibana的记录上，粗估有707名用户活跃度受影响
+ 5. 於01/31 17:20之後建立的WebHooks丢失
 
 <br>
 <br>
