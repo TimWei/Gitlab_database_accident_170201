@@ -132,10 +132,6 @@
 	* 实验以AzCopy来对传数据中心的资料: Microsoft説这应该比rsync快多了
 		*这看起来是个Windows才有的东西，然而我们并没有任何Windows专家(或是任何够熟悉，懂得如何正确测试的人)
 		
-
-	Experiment with moving data from one datacenter to another via AzCopy: Microsoft says this should be faster than rsync:
-This seems to be a Windows only thing, and we don’t have any Windows experts (or anybody remotely familiar enough with it to try this out properly)
-
 <br>
 <br>
 
