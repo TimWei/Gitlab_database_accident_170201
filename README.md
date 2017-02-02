@@ -1,3 +1,6 @@
+<a href='https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub'>Original Post </a>
+---
+
 <h1>GitLab.com 数据库事故 - 2017/01/31</h1>
 >> 备注: 此事故影响了数据库 (包含 issues 与 merge requests) 但无影响到 GIT Repo's (repositories 与 wikis)。
 
