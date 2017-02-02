@@ -45,7 +45,7 @@
 
 4. <b>2017/01/31 23:00左右</b><br>	
 	*	YP想到可能是因为data文件夹存在，使得pg_basebackup出问题，决定删除整个data文件夹。几秒後他发现自己在db1.cluster.gitlab而不是db2.cluster.gitlab.com
-	*2017/01/31 23:27 YP - 中止删除，但是太迟了。310 GB左右的数据被删到只剩下4.5 GB - <a href='https://www.google.com/url?q=https://gitlab.slack.com/archives/infrastructure/p1485905230015681&sa=D&ust=1486010949752000&usg=AFQjCNFDXSsYTR3Z2dA1WgScIPcJFg8Jiw'>Slack</a>
+	*	2017/01/31 23:27 YP - 中止删除，但是太迟了。310 GB左右的数据被删到只剩下4.5 GB - <a href='https://www.google.com/url?q=https://gitlab.slack.com/archives/infrastructure/p1485905230015681&sa=D&ust=1486010949752000&usg=AFQjCNFDXSsYTR3Z2dA1WgScIPcJFg8Jiw'>Slack</a>
 
 <br>
 <br>
@@ -79,7 +79,7 @@
 	* 2017/02/02 16:28 - JN: 数据传输完成
 	* 2017/02/02 16:45 - 开始进入重建阶段
 
-3. 重建阶段(译者备注:此为一份check list)
+3. 重建阶段
 	* [x] - 建立一份DB1的服务器快照 - DB2或DB3也可以 - 於16:36 UTC完成
 	* [x] - 由於production的PostgreSQL版本为9.6.0，staging是使用9.6.1，升级 db1.cluster.gitlab.com的PostgreSQL至9.6.1
 		* 安装8.16.3-EE.1
