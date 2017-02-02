@@ -207,7 +207,7 @@ http://monitor.gitlab.net/dashboard/db/postgres-stats?panelId=10&fullscreen&from
 
 <h5>Stephen Frost</h5>
 
-https://twitter.com/net_snow/status/826622954964393984 @gitlabstatus 嘿，我是个程序员, 时常提交修改，也是主要的贡献者，非常喜欢你们所做的一切，有需要我帮忙的话随时连络我，我很乐意帮忙。
+https://twitter.com/net_snow/status/826622954964393984 @gitlabstatus 嘿，我是PG的提交者，也是主要的贡献者之一，非常喜欢你们所做的一切，有需要我帮忙的话随时连络我，我很乐意帮忙。
 
 <h5>Sam McLeod</h5>
 
