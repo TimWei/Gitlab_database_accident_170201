@@ -6,7 +6,7 @@
 
 <a href='https://www.youtube.com/c/Gitlab/live'>YouTube直播 - 瞧瞧我们如何思考与解决问题</a>
 
-* [时间轴(格林威治标准时间)](#time_line)
+* [时间轴(世界协调时)](#time_line)
 * [修复过程(从约17:20 UTC左右开始记录)](#rescovery)
 * [遭遇之问题](#problem)
 * [外部协助](#external)
@@ -24,7 +24,7 @@
 <br>
 
 <a id='time_line'></a>
-<h3>时间轴(格林威治标准时间)</h3>
+<h3>时间轴(世界协调时)</h3>
 
 1. <b>2017/01/31 16:00/17:00 - 21:00 </b><br>	
 	*	YP正在staging调适pgpool与replication，并创建了LVM快照同步production数据至staging，希望能以此快照创建其它复本，这些操作大概在数据丢失前六小时完成了。
